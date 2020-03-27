@@ -5,4 +5,4 @@ The actual respository you can find here https://gitlab.com/jklepatch/eatthebloc
 
 And you also get confused with "end" and "start" directories it's just before and after things. So I removed that to make it simple. 
 
-Tip:Please install web3 manually
+Tip: install web3 manually
